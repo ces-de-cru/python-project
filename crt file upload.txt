@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+</head>
+     <body>
+     <label> oops!You have uploded wrong File..Please choose the correct doc file</label>
+     <a href="/index"><input type="buttton" value="ok"/></a>
+     </body>
+</html>
